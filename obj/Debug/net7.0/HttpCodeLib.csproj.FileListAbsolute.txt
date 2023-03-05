@@ -1,0 +1,12 @@
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\bin\Debug\net7.0\HttpCodeLib.deps.json
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\bin\Debug\net7.0\HttpCodeLib.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\bin\Debug\net7.0\HttpCodeLib.pdb
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\HttpCodeLib.csproj.AssemblyReference.cache
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\HttpCodeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\HttpCodeLib.AssemblyInfoInputs.cache
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\HttpCodeLib.AssemblyInfo.cs
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\HttpCodeLib.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\HttpCodeLib.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\refint\HttpCodeLib.dll
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\HttpCodeLib.pdb
+C:\Users\rodolfo.jesus\Documents\Csharp\HttpCodeLib\obj\Debug\net7.0\ref\HttpCodeLib.dll
