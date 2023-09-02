@@ -20,7 +20,7 @@ jobs:
               run: dotnet build --configuration Release
 
             - name: Create the Package
-              run: dotnet pack --configurarion Release
+              run: dotnet pack --configuration Release
 
             - name: Publish
               run: dotnet nuget push "" -k ${{ secrets.HTTPCODELIB }} -s https://api.nuget.org/v3/index.json
