@@ -1,5 +1,5 @@
 ﻿namespace HttpCodeLib;
-public enum NumberStatusCode
+public enum StatusCodeNumber : short
 {
     //INFORMATION
     CONTINUE = 100,
